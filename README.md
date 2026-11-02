@@ -1,9 +1,11 @@
 # copicol
 
-Copie un dossier (serveur, NAS, disque) vers un disque de sauvegarde en
-**raccourcissant automatiquement les chemins trop longs pour Windows**.
-Chaque renommage est consigné dans un rapport, et la sauvegarde peut être
-restaurée avec ses noms d'origine.
+Chemins trop longs ? Vos fichiers méritent mieux qu'une erreur Windows.
+Copiez vos dossiers depuis un NAS, un serveur ou un disque, même lorsque leurs chemins dépassent les limites de Windows. copicol raccourcit automatiquement les noms, conserve leur correspondance et permet de restaurer l'arborescence d'origine.
+
+Sans installation
+Reprise après interruption
+Restauration réversible
 
 ## Télécharger
 
