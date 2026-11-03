@@ -1,7 +1,9 @@
 # copicol
 
-Chemins trop longs ? Vos fichiers méritent mieux qu'une erreur Windows.
-Copiez vos dossiers depuis un NAS, un serveur ou un disque, même lorsque leurs chemins dépassent les limites de Windows. copicol raccourcit automatiquement les noms, conserve leur correspondance et permet de restaurer l'arborescence d'origine.
+Chemins trop longs ? 
+Vos fichiers méritent mieux qu'une erreur Windows.
+Copiez vos dossiers depuis un NAS, un serveur ou un disque, même lorsque leurs chemins dépassent les limites de Windows.
+Copicol raccourcit automatiquement les noms, conserve leur correspondance et permet de restaurer l'arborescence d'origine.
 
 Sans installation
 Reprise après interruption
